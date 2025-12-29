@@ -836,11 +836,11 @@
     "jest": "^27.5.1"
   },
   "scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject"
-    },
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PrashuChoudhary000/Pr.git"
@@ -848,9 +848,20 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-
   "bugs": {
     "url": "https://github.com/PrashuChoudhary000/Pr/issues"
   },
-  "homepage": "https://github.com/PrashuChoudhary000/Pr#readme"
+  "homepage": "https://github.com/PrashuChoudhary000/Pr#readme",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
