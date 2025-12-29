@@ -851,7 +851,7 @@
   "bugs": {
     "url": "https://github.com/PrashuChoudhary000/Pr/issues"
   },
-  "homepage": "https://github.com/PrashuChoudhary000/Pr#readme",
+  "homepage": ".",
   "browserslist": {
     "production": [
       ">0.2%",
