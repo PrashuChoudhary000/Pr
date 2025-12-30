@@ -4,7 +4,7 @@ import "./App.css";
 import TaglineSection from "./TaglineSection";
 
 const api = axios.create({
-  baseURL: "https://web-production-6b4b6.up.railway.app/",
+  baseURL: "https://web-production-6b4b6.up.railway.app",
 });
 
 function App() {
